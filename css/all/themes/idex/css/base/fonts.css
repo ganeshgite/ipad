@@ -1,0 +1,56 @@
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Noto Sans Italic"), local("NotoSans-Italic"),
+		url(../fonts/o-0OIpQlx3QUlC5A4PNr4ARDQ_w.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Noto Sans Bold Italic"), local("NotoSans-BoldItalic"),
+		url(../fonts/o-0TIpQlx3QUlC5A4PNr4Az5ZuyCzWg.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Noto Sans"), local("NotoSans"),
+		url(../fonts/o-0IIpQlx3QUlC5A4PNr5DRF.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Teko";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Teko Regular"), local("Teko-Regular"),
+		url(../fonts/LYjNdG7kmE0gfaJ9oA.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Teko";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: local("Teko Medium"), local("Teko-Medium"),
+		url(../fonts/LYjCdG7kmE0gdVBesCVgrQ.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Teko";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local("Teko SemiBold"), local("Teko-SemiBold"),
+		url(../fonts/LYjCdG7kmE0gdXxZsCVgrQ.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Teko";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Teko Bold"), local("Teko-Bold"),
+		url(../fonts/LYjCdG7kmE0gdRhYsCVgrQ.ttf) format("truetype");
+}

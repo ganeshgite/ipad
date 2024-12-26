@@ -1,0 +1,17 @@
+ 
+.gg{
+    width: 100vw;
+
+
+}
+.airforce-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+h1{
+    width: 100vw;
+    text-align: center;
+}
